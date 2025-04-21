@@ -36,7 +36,7 @@ Welcome! This portfolio showcases my hands-on scripting projects in **Python** a
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile) *(replace with your actual link)*
+- [LinkedIn](https://www.linkedin.com/in/wiley-t-johnson/)
 
 ---
 
